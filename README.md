@@ -1,5 +1,3 @@
-# README.md
-
 ## 👋 About Me
 
 I’m a Full Stack Software Developer with extensive experience in various projects for the Rwanda Defence Force. I’m passionate about building scalable web applications that enhance operational efficiency, improve user experience, and incorporate effective design principles.
